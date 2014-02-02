@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>HuntraxCA.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUVkRENDQTF5
+			Z0F3SUJBZ0lKQU84T0Z4Ky9DZzNlTUEwR0NTcUdTSWIzRFFFQkJR
+			VUFNSUdDTVFzd0NRWUQKVlFRR0V3SkxVakVPTUF3R0ExVUVDQk1G
+			VTJWdmRXd3hGVEFUQmdOVkJBb1RERWgxYm5SeVlYZ2dUSFJrTGpF
+			bwpNQ1lHQTFVRUF4TWZTSFZ1ZEhKaGVDQkRaWEowYVdacFkyRjBh
+			Vzl1SUVGMWRHaHZjbWwwZVRFaU1DQUdDU3FHClNJYjNEUUVKQVJZ
+			VGFIVnVkSEpoZURFeFFHZHRZV2xzTG1OdmJUQWVGdzB4TkRBeU1E
+			SXhNREE0TXpsYUZ3MDAKTVRBMk1Ua3hNREE0TXpsYU1JR0NNUXN3
+			Q1FZRFZRUUdFd0pMVWpFT01Bd0dBMVVFQ0JNRlUyVnZkV3d4RlRB
+			VApCZ05WQkFvVERFaDFiblJ5WVhnZ1RIUmtMakVvTUNZR0ExVUVB
+			eE1mU0hWdWRISmhlQ0JEWlhKMGFXWnBZMkYwCmFXOXVJRUYxZEdo
+			dmNtbDBlVEVpTUNBR0NTcUdTSWIzRFFFSkFSWVRhSFZ1ZEhKaGVE
+			RXhRR2R0WVdsc0xtTnYKYlRDQ0FTSXdEUVlKS29aSWh2Y05BUUVC
+			QlFBRGdnRVBBRENDQVFvQ2dnRUJBTUdaWDNpYnV4eG9LQnFMNUIv
+			NAoxMXpmRkF1Zk4wNDFDTnlyUWRrVGF0OG5rU1RPdXhjMVV4Qjlm
+			dHdRZGowS3hoWnNsQklKUFJIV3BhNHdpZGtZCnZ0dU1vbUtTNXdz
+			b1V1VkFEMVE3QXhmemhOS1RJMUMyTlRmanA3WTAzck5UQnBOMDZt
+			REZFRUdldUppWTFLYjEKYUU3cmlTYkhVTEZyMHVTVVlnWUN0TEo5
+			OXhVV2Vsa1grZ1BRazdoMlJQWStCMGs5M0IzVW43SUVtTVg5bnZa
+			WgpaaHlKam9PZDR1UGFzMisrR2lpcEpqVnJMSXVpNTk3aE5odW1R
+			Vi9OcHEvcjd1ODdlcUYxbW1UYkxxbFdnMG9KClphZUVudVEwYldw
+			RTl5WjZNVmF2bXZmSGpWWENsNXNxdXQ2WkFtL1hjSTgzRUNmZU1F
+			YlFvekhSeC9PcnVWSUsKVmQwQ0F3RUFBYU9CNmpDQjV6QWRCZ05W
+			SFE0RUZnUVVTZmVpY2JIUlE1SXFyYTJHRHBERUkxaGxqZGd3Z2Jj
+			RwpBMVVkSXdTQnJ6Q0JySUFVU2ZlaWNiSFJRNUlxcmEyR0RwREVJ
+			MWhsamRpaGdZaWtnWVV3Z1lJeEN6QUpCZ05WCkJBWVRBa3RTTVE0
+			d0RBWURWUVFJRXdWVFpXOTFiREVWTUJNR0ExVUVDaE1NU0hWdWRI
+			SmhlQ0JNZEdRdU1TZ3cKSmdZRFZRUURFeDlJZFc1MGNtRjRJRU5s
+			Y25ScFptbGpZWFJwYjI0Z1FYVjBhRzl5YVhSNU1TSXdJQVlKS29a
+			SQpodmNOQVFrQkZoTm9kVzUwY21GNE1URkFaMjFoYVd3dVkyOXRn
+			Z2tBN3c0WEg3OEtEZDR3REFZRFZSMFRCQVV3CkF3RUIvekFOQmdr
+			cWhraUc5dzBCQVFVRkFBT0NBUUVBRFlsY2RmMmxuSWZXVzRRRnda
+			dkJMVkJKSmZHTlpJK2EKWk40UU5OYzYxeUxXY2d1WTV3YVR5dGEr
+			SFFRd3BCVjlDNFVMZ09PME1Fc2lRcnBtMDg1RVNBVEduTVZIWUd3
+			bAp0V0wxNGNHWFBTZ21YSVhERzlJZkhCMkhjcm5qbWR1Ykd0Szlv
+			SWQ4c1hNWm5nRjdXU2wvZWg4K3hWWEY4aE5sCmNVZ1d3QjJEeVl6
+			WWpsK1RyeHFEbHZVV3NzTnJaVFdIVWV1UnpBTE0vSkEwQ0JodXFy
+			eUFVNkJsNVRjdTBVMGEKdHowclI4MzBiaU54c2JzWVFjc1JlUHk1
+			Rm5mZjF2L3k5N1hnUkNzVTNnaVdSUDRvY21zOHprZHE0WERIM01x
+			dwpOSUhMNVNzdFFrdlUvampOanpjN3VxcWpoeWhGVGlETE1tamFk
+			a3NrTE5wZnFNVHBVRm0vQlE9PQotLS0tLUVORCBDRVJUSUZJQ0FU
+			RS0tLS0tCg==
+			</data>
+			<key>PayloadDescription</key>
+			<string>장비 인증(인증서 또는 신원)을 제공하십시오.</string>
+			<key>PayloadDisplayName</key>
+			<string>Huntrax Certification Authority</string>
+			<key>PayloadIdentifier</key>
+			<string>com.huntrax.CA.자격 증명</string>
+			<key>PayloadOrganization</key>
+			<string>Huntrax Ltd.</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>26ED52E0-4762-466C-9C40-38B45835E802</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Huntrax Certification Authority's profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Huntrax Certification</string>
+	<key>PayloadIdentifier</key>
+	<string>com.huntrax.CA</string>
+	<key>PayloadOrganization</key>
+	<string>Huntrax Ltd.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>105D4374-55E8-43DE-BFCF-2B8F834463CB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
